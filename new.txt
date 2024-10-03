@@ -1,3 +1,0 @@
-hi this new work to check weather pull and push is working 
-pull from git hub get new update to local dextop
-push from local dextop get new update to git
